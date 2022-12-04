@@ -1,0 +1,4 @@
+./images/001.nii.gz 0
+./images/002.nii.gz 1
+./images/003.nii.gz 0
+./images/005.nii.gz 0
