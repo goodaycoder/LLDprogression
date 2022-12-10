@@ -1,6 +1,6 @@
 # LLDprogression
 
-## _This a demo of our paper "Hybrid Representation Learning for Assessing Clinical Progression of Late-Life Depression Over 5 Years with Structural MRI"_
+## _This is a demo of our paper "Hybrid Representation Learning for Assessing Clinical Progression of Late-Life Depression Over 5 Years with Structural MRI"_
 
 [![N|Solid](https://mingxia.web.unc.edu/wp-content/uploads/sites/12411/2020/12/logo_MagicLab-horizontal-4.png)](https://mingxia.web.unc.edu/)
 
