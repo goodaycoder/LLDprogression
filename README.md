@@ -4,7 +4,7 @@
 
 ## _This is a demo of our paper "Hybrid Representation Learning for Cognitive Diagnosis in Late-Life Depression Over 5 Years with Structural MRI"_
 
-[![Made With Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nm8JLCptOMqFHRtnXZeux_qoW9wtAgD_?usp=sharing)
+[![Made With Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodaycoder/LLDprogression/blob/master/LLDProgressionClassification.ipynb)
 
 ## Introduction  
 - 
