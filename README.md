@@ -22,12 +22,8 @@ https://doi.org/10.48550/arXiv.2212.12810
 ## Results  
 
 
-
-
 ## Future Works  
-- 
-- 
-- 
+ 
 
 ##### NOTE: If you want to cite this repository, then please ....
 ##### The model is realized on the basis of open source project [MONAI](https://github.com/Project-MONAI/MONAI).
